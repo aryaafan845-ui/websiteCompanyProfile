@@ -1,2 +1,0 @@
-# websiteCompanyProfile
-websiteCompanyProfile
